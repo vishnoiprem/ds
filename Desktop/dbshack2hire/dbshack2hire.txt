@@ -1,0 +1,49 @@
+adminadmin
+
+10	Shao Tao	SGHack2Hire10@gmail.com	dbshack2hire10	SGHack2Hire10@gmail.com	dbshack2hire10	<huajieyang@dbs.com>; 	sghack2hire10	sghack2hire10	1umQHhMcdmYS	 https://sghack2hire10.signin.aws.amazon.com/console  	sghack2hire10	sghack2hire10X#	http://ec2-54-169-162-21.ap-southeast-1.compute.amazonaws.com:7180	adminadmin	cloudera-cluster-keypair.pem
+
+https://s3-ap-southeast-1.amazonaws.com/devopsblobs/challenge02/challenge-2.zip
+
+https://s3-ap-southeast-1.amazonaws.com/devopsblobs/challenge02/challenge-2/
+
+chmod 400 dbshack2hire10.pem
+ssh -i "dbshack2hire10.pem" ec2-user@ec2-52-221-204-67.ap-southeast-1.compute.amazonaws.com
+
+
+ssh -i clouder-cluster-main.pem ec2-user@ec2-52-221-193-122.ap-southeast-1.compute.amazonaws.com
+
+ssh ec2-user@ip-192-168-0-97.ap-southeast-1.compute.internal
+
+
+ssh -i clouder-cluster-main.pem ec2-user@ip-192-168-0-97.ap-southeast-1.compute.internal
+
+
+pos_device.csv
+transaction.csv
+zip_codes_states.csv
+
+
+
+cat <FILE> | netcat <SERVER> <PORT>
+
+
+cat pos_device_stream.csv | netcat servername:portnum
+
+
+s3://aws-logs-208828877773-ap-southeast-1/elasticmapreduce/
+
+
+
+
+======jupyter
+
+ssh -i dbshack2hire10.pem hadoop@ec2-54-169-6-244.ap-southeast-1.compute.amazonaws.com
+
+s3://aws-logs-208828877773-ap-southeast-1/elasticmapreduce/
+
+--notebook-dir <s3://your-bucket/folder/>
+
+
+
+
+
